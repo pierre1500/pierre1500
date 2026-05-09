@@ -14,6 +14,6 @@
 <br><br>
 
 <p align="center">
-  <img src="github-metrics.svg" width="495" />&nbsp;<img src="github-metrics-repos.svg" width="495" />
+  <img src="github-metrics.svg" width="900" />
 </p>
 
