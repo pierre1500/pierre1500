@@ -16,7 +16,7 @@ jobs:
           filename: github-metrics.svg
 
           user: pierre1500
-          config_display: columns
+          config_display: large
 
           base: header, activity, community, repositories
 
