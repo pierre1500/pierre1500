@@ -16,7 +16,8 @@
 <br>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="48%" />
+  <img src="github-metrics-repos.svg" alt="Featured Repositories" width="48%" />
 </p>
 
 <br>
