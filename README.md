@@ -13,4 +13,7 @@
 
 <br><br>
 
-<img src="github-metrics.svg" width="100%" />
+<p align="center">
+  <img src="github-metrics.svg" width="495" />
+</p>
+
