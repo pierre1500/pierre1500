@@ -24,3 +24,6 @@ jobs:
           plugin_languages_limit: 6
           plugin_notable: yes
           plugin_notable_from: organization
+          plugin_repositories: yes
+          plugin_repositories_featured: pierre1500/claude-tech-watch,pierre1500/Horizon-yolo-v8,pierre1500/freetakserver-k8s,pierre1500/claude-code
+          plugin_repositories_pinned: 4
