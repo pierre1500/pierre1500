@@ -13,14 +13,23 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
+          filename: github-metrics.svg
+
           # Config de base
           user: pierre1500
           config_display: columns
 
           base: header, activity, community, repositories
-          
-          # Plugins optionnels
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-repos.svg
+
+          user: pierre1500
+          base: ""
+
+          # Featured repositories
           plugin_repositories: yes
           plugin_repositories_featured: pierre1500/claude-tech-watch,pierre1500/Horizon-yolo-v8,pierre1500/freetakserver-k8s,pierre1500/claude-code
           plugin_repositories_pinned: 4
