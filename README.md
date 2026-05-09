@@ -25,7 +25,5 @@
 <p align="center">
   <a href="https://discordapp.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a&color=111111" alt="Discord" /></a>
   <a href="https://linkedin.com/in/pierre-chavant"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a&color=111111" alt="LinkedIn" /></a>
-  <a href="https://orcid.org/0009-0004-9791-1149"><img src="https://img.shields.io/badge/Webpage-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a&color=111111" alt="Webpage" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=111111" alt="Mail" /></a>
 </p>
 
