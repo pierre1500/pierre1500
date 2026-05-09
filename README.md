@@ -13,10 +13,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="48%" align="top" />
-  <img src="github-metrics-repos.svg" alt="Featured Repositories" width="48%" align="top" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="github-metrics-repos.svg" alt="Featured Repositories" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
