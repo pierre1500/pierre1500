@@ -18,6 +18,8 @@ jobs:
           user: pierre1500
 
           base: header, activity, community, repositories
+          config_theme: dark
+          config_custom_css: "svg { filter: grayscale(100%); }"
 
       - uses: lowlighter/metrics@latest
         with:
@@ -26,6 +28,8 @@ jobs:
 
           user: pierre1500
           base: ""
-          
+          config_theme: dark
+          config_custom_css: "svg { filter: grayscale(100%); }"
+
           plugin_repositories: yes
           plugin_repositories_featured: pierre1500/claude-tech-watch,pierre1500/Horizon-yolo-v8,pierre1500/freetakserver-k8s,pierre1500/claude-code
