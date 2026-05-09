@@ -16,7 +16,8 @@ jobs:
           
           # Config de base
           user: pierre1500
-          template: classic
+          config_display: columns
+          
           base: header, activity, community, repositories
           
           # Plugins optionnels
