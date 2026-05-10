@@ -119,7 +119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pierre1500/freetakserver-k8s</span>
-                                        <span>created 14 hours ago</span>
+                                        <span>created 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Production-grade Kubernetes deployment of FreeTAKServer on k3s — hardened non-root Docker image, Kaniko build, GitLab CI/CD with commit-pinned images, Traefik ingress with automatic TLS and per-IP rate limiting.</div>
